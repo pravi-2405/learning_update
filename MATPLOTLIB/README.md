@@ -1,3 +1,3 @@
 # MATPLOTLIB
 
-**MATPLOTLIB** is a graph plotting library which serves as a visualization utility.
+__MATPLOTLIB__ is a graph plotting library which serves as a visualization utility.
